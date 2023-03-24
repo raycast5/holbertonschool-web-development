@@ -1,6 +1,6 @@
 ## Advanced HTML
 
-![My Image](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/97c8976d2ff5ff1871d7a0815b72773379df6acb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230324%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230324T043346Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7826140a27bb918e85a9ae92153f9c5ec73e983bd93c737ab53fb8afc4958707)
+![My Image](mockup.jpg)
 
 
 ## Resources
