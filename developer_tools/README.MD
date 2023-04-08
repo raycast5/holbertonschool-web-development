@@ -1,6 +1,6 @@
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/0872ca9b19e11650e355.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230408%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230408T115118Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a9c2fdc4b29f9c14ad83fae199c341a332b84f40855d80441d63944d797c4c80)
+# Developer Tools
 
-In this project, you will analyze this website  [https://dev-tools.hbtn.info/](https://intranet.hbtn.io/rltoken/XDJc8x9X5FRGgi01_vRDkg "https://dev-tools.hbtn.info/").
+In this project, we will analyze this website  [https://dev-tools.hbtn.info/](https://intranet.hbtn.io/rltoken/XDJc8x9X5FRGgi01_vRDkg "https://dev-tools.hbtn.info/").
 
 ## Resources
 
@@ -16,7 +16,7 @@ In this project, you will analyze this website  [https://dev-tools.hbtn.info/](h
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to  [explain to anyone](https://intranet.hbtn.io/rltoken/JtuJ8tzZqLIvF3KRXsVBaA "explain to anyone"),  **without the help of Google**:
+At the end of this project, we are expected to be able to  [explain to anyone](https://intranet.hbtn.io/rltoken/JtuJ8tzZqLIvF3KRXsVBaA "explain to anyone"),  **without the help of Google**:
 
 ### General
 
